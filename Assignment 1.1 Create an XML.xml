@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<Library catalogue>
+		<catalogue name="technical_books">
+			<book>
+				<ISBN>
+					<ISBN-10>0135957052</ISBN-10>
+					<ISBN-13>9780135957059</ISBN-13>
+				</ISBN>
+				<title>"The Pragmatic Programmer: your journey to mastery, 20th Anniversary Edition"</title>
+				<author_first_name>David</author_first_name>
+				<author_last_name>Thomas</author_last_name>
+				<author_first_name>Andrew</author_first_name>
+				<author_last_name>Hunt</author_last_name>
+			</book>
+			<book>
+				<ISBN>
+					<ISBN-10>0132350882</ISBN-10>
+					<ISBN-13>9780132350884</ISBN-13>
+				</ISBN>
+				<title>"Clean Code : A Handbook of Agile Software Craftsmanship"</title>
+				<author_first_name>Robert</author_first_name>
+				<author_middle_name>"C."</author_middle_name>
+				<author_last_name>Martin</author_last_name>
+			</book>
+		</catalogue>
+		<catalogue name="cookery_books">
+			<book>
+				<ISBN>
+					<ISBN-10>1944529780</ISBN-10>
+					<ISBN-13>9781944529789</ISBN-13>
+				</ISBN>
+				<title>"Mrs. Beeton's Cookery Book and Household Guide"</title>
+				<author_first_name>Isabella</author_first_name>
+				<author_middle_name>Mary</author_middle_name>
+				<author_last_name>Beeton</author_last_name>
+			</book>
+			<book>
+				<ISBN>
+					<ISBN-10>0714869554</ISBN-10>
+					<ISBN-13>9780714869551</ISBN-13>
+				</ISBN>
+				<title>"Toast : The Cookbook"</title>
+				<author_first_name>Raquel</author_first_name>
+				<author_last_name>Pelzel</author_last_name>
+			</book>
+		</catalogue>
+	</Library catalogue>
