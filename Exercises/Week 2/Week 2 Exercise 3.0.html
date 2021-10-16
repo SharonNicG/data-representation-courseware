@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Input, Button and Output</title>
+    </head>
+
+    <body>
+        <input id="name" type="text" value="name"/><br/><br/>
+        <button onclick="buttonClicked()">Click Here</button><br/><br/>
+        <div id="output"></div>
+
+        <script>
+            function buttonClicked() {
+                var output= document.getElementById('name').value
+                document.getElementById('output').innerHTML = output
+        }
+        </script>
+
+
+</body>
+</html>
