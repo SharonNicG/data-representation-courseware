@@ -3,14 +3,33 @@
         <title>Input, Button and Output</title>
     </head>
 
+<!-- Make a webpage with an input and a button -->
+<!-- when the user clicks the button then the contents of the input will display in another div -->
+
     <body>
+        <!-- 
+        unique id for element
+        type of input element to display
+        value of input element    
+        -->
         <input id="name" type="text" value="name"/><br/><br/>
+
+        <!-- 
+        a clickable button
+        runs script 'onclick'  
+        -->
         <button onclick="buttonClicked()">Click Here</button><br/><br/>
         <div id="output"></div>
 
         <script>
+            // Function name
             function buttonClicked() {
+                // var = container for stored data
+                // returns the element (input) that has the ID attribute (id= ) with the specified value ('name')
                 var output= document.getElementById('name').value
+
+                // selects the element
+                // prints output
                 document.getElementById('output').innerHTML = output
         }
         </script>
