@@ -1,0 +1,27 @@
+<html>
+    <head>
+        <title>Alternate Display</title>
+    </head>
+
+  <body>
+
+    <div id="Div1">
+    <button onclick="showDiv2()">Show Div2</button>
+    </div>
+
+    <div id="Div2">
+        <button onclick="showDiv1()">Show Div1</button>
+    </div>
+
+    <script>
+        function showDiv2(){
+            document.getElementById('Div1').style.display = "none";
+            document.getElementById('Div2').style.display = "block";
+        } 
+        function showDiv1(){
+            document.getElementById('Div1').style.display = "block";
+            document.getElementById('Div2').style.display = "none";
+        } 
+    </script>
+  </body>
+</html>
