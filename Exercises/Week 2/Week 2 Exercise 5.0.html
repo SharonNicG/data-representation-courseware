@@ -4,8 +4,9 @@
     </head>
 
   <body>
-
+    <!-- unique id for element -->
     <div id="Div1">
+    <!-- clickable button that runs named function when clicked  -->   
     <button onclick="showDiv2()">Show Div2</button>
     </div>
 
@@ -14,7 +15,12 @@
     </div>
 
     <script>
+        // function name to be called
         function showDiv2(){
+
+            // selects the element by unique id
+            // returns the display type
+            // sets the display type
             document.getElementById('Div1').style.display = "none";
             document.getElementById('Div2').style.display = "block";
         } 
