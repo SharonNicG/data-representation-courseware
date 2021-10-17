@@ -4,19 +4,32 @@
     </head>
 
     <body>
+        <!-- 
+        type of input element to display
+        onchange event for when element value is changes    
+        -->
         <input type="number" onchange="checkNumber(this)"/>
+
+        <!-- unique id for element -->
         <div id="output"></div>
 
         <script>
+            // Function name
             function checkNumber(inputElement){
+
+               // declares a variable and assigns it a value (inputElement)
                 var x = inputElement.value;
            
+                // Sets conditions if TRUE do this, if FALSE do that, otherwise do this
                 if (x < 10) {
-                    document.getElementById("output").innerText = "Too low";
+
+                    // returns the element with the ID output
+                    // returns all text contained the output element
+                    document.getElementById("output").innertext = "Too low";
                 } else if (x > 10) {
-                    document.getElementById("output").innerText = "Too high";
+                    document.getElementById("output").innertext = "Too high";
                 } else {
-                    document.getElementById("output").innerText = "Try again"
+                    document.getElementById("output").innertext = "Try again"
                 }
             }
         </script>
