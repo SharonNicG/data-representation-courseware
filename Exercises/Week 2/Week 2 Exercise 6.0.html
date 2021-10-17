@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>Text Box and Value Assessment</title>
+    </head>
+
+    <body>
+        <input type="number" onchange="checkNumber(this)"/>
+        <div id="output"></div>
+
+        <script>
+            function checkNumber(inputElement){
+                var x = inputElement.value;
+           
+                if (x < 10) {
+                    document.getElementById("output").innerText = "Too low";
+                } else if (x > 10) {
+                    document.getElementById("output").innerText = "Too high";
+                } else {
+                    document.getElementById("output").innerText = "Try again"
+                }
+            }
+        </script>
+
+    </body>
+</html>
