@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>Button click, stores and outputs to console</title> 
+    </head>
+    <body>
+        <!-- Creates table -->
+        <table>
+        <!-- Creates row -->
+            <tr>
+                <!-- Row Data -->
+                <td>how now</td>
+                <td>brown cow</td>
+
+                <!-- 
+                    Includes button in row cell
+                    "doRow(this" is function name 
+                -->
+                <td><button onclick="doRow(this)">output</button></td>
+            </tr>
+        </table>
+    </body>
+    <script>
+        function doRow(buttonElement){
+            // https://www.w3schools.com/jsref/prop_node_parentnode.asp
+            var rowElement = buttonElement.parentNode.parentNode
+            var data={}
+            // https://www.w3schools.com/jsref/prop_node_firstchild.asp
+            data.cell1 = rowElement.cells[0].firstChild.textContent;
+            data.cell2 = rowElement.cells[1].firstChild.textContent;
+
+            console.log(JSON.stringify(data))
+            
+        }
+    
+    </script>
+</html>
