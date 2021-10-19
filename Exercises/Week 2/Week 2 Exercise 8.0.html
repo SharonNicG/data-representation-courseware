@@ -1,0 +1,33 @@
+<html>
+    <head>
+        <title>Input, Button and Output</title>
+    </head>
+
+    <body>
+        <div id="output">
+            <input id="firstName" type="text"/><br/><br/>
+            <input id="lastName" type="text"/><br/><br/>
+            <input id="age" type="number"/><br/><br/>
+
+            <button onclick="buttonClicked()">Click to output to Console</button><br/><br/>
+        </div>
+
+        <script>
+            function buttonClicked() {
+
+                // https://www.geeksforgeeks.org/difference-between-var-and-let-in-javascript/
+                var people ={}
+                var form = document.getElementById("output")
+
+                // https://www.w3schools.com/Jsref/met_document_queryselector.asp
+                people.firstName = form.querySelector('input[id="firstName"').value
+                people.lastName = form.querySelector('input[id="lastName"').value
+                people.age = form.querySelector('input[id="age"').value
+
+                // https://www.w3schools.com/js/js_json_stringify.asp
+                console.log("form data"+JSON.stringify(people))
+            }
+        
+        </script>
+    </body>
+</html>
