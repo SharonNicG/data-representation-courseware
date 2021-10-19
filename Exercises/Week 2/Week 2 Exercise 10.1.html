@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Button click, stores and outputs to console</title> 
+    </head>
+    <body>
+        <!-- Creates table -->
+        <table id="myTable">
+        <!-- Creates row -->
+            <tr>
+                <!-- Row Data -->
+                <td>how now</td>
+                <td>brown cow</td>
+
+                <!-- 
+                    Includes button in row cell
+                    "doRow(this" is function name 
+                -->
+                <td><button onclick="doRow(this)">output</button></td>
+            </tr>
+        </table>
+                <!-- 
+                    Includes button in row cell
+                    "createRow(this" is function name 
+                -->
+        <button onclick="createRow()">create Row</button>
+
+    </body>
+    <script>
+        function doRow(buttonElement){
+            // https://www.w3schools.com/jsref/prop_node_parentnode.asp
+            var rowElement = buttonElement.parentNode.parentNode
+            var data={}
+            // https://www.w3schools.com/jsref/prop_node_firstchild.asp
+            data.cell1 = rowElement.cells[0].firstChild.textContent;
+            data.cell2 = rowElement.cells[1].firstChild.textContent;
+
+            console.log(JSON.stringify(data))
+            
+        }
+        // https://www.w3schools.com/jsref/met_table_insertrow.asp
+        function createRow() {
+            var table = document.getElementById("myTable");
+            var row = table.insertRow(-1);
+            var cell1 = row.insertCell(0);
+            var cell2 = row.insertCell(1);
+            cell1.innerHTML = "needs more";
+            cell2.innerHTML = "cow bell";
+            }
+    
+    </script>
+</html>
