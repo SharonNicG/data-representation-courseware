@@ -1,0 +1,376 @@
+N
+N	51.9018
+N	51.9018	-8.4582
+N	51.9018	-8.4582	B215
+N	51.9018	-8.4582	B215	21 Oct 2021
+N	51.9018	-8.4582	B215	21 Oct 2021	B215\nCork to Mallow\nExpected Departure 11:58
+N	51.9018	-8.4582	B215	21 Oct 2021	B215\nCork to Mallow\nExpected Departure 11:58	To Mallow
+N	51.9018	-8.4582	B215	21 Oct 2021	B215\nCork to Mallow\nExpected Departure 11:58	To Mallow
+N
+N	51.9018
+N	51.9018	-8.4582
+N	51.9018	-8.4582	D244
+N	51.9018	-8.4582	D244	21 Oct 2021
+N	51.9018	-8.4582	D244	21 Oct 2021	D244\nCork to Cobh\nExpected Departure 12:00
+N	51.9018	-8.4582	D244	21 Oct 2021	D244\nCork to Cobh\nExpected Departure 12:00	To Cobh
+N	51.9018	-8.4582	D244	21 Oct 2021	D244\nCork to Cobh\nExpected Departure 12:00	To Cobh
+N
+N	51.9212
+N	51.9212	-8.17579
+N	51.9212	-8.17579	P279
+N	51.9212	-8.17579	P279	21 Oct 2021
+N	51.9212	-8.17579	P279	21 Oct 2021	P279\nMidleton to Cork\nExpected Departure 11:45
+N	51.9212	-8.17579	P279	21 Oct 2021	P279\nMidleton to Cork\nExpected Departure 11:45	To Cork
+N	51.9212	-8.17579	P279	21 Oct 2021	P279\nMidleton to Cork\nExpected Departure 11:45	To Cork
+N
+N	52.6587
+N	52.6587	-8.62397
+N	52.6587	-8.62397	A431
+N	52.6587	-8.62397	A431	21 Oct 2021
+N	52.6587	-8.62397	A431	21 Oct 2021	A431\nLimerick to Limerick Junction\nExpected Departure 11:50
+N	52.6587	-8.62397	A431	21 Oct 2021	A431\nLimerick to Limerick Junction\nExpected Departure 11:50	To Limerick Junction
+N	52.6587	-8.62397	A431	21 Oct 2021	A431\nLimerick to Limerick Junction\nExpected Departure 11:50	To Limerick Junction
+N
+N	53.1442
+N	53.1442	-6.06085
+N	53.1442	-6.06085	E920
+N	53.1442	-6.06085	E920	21 Oct 2021
+N	53.1442	-6.06085	E920	21 Oct 2021	E920\nGreystones to Howth\nExpected Departure 12:04
+N	53.1442	-6.06085	E920	21 Oct 2021	E920\nGreystones to Howth\nExpected Departure 12:04	Northbound
+N	53.1442	-6.06085	E920	21 Oct 2021	E920\nGreystones to Howth\nExpected Departure 12:04	Northbound
+N
+N	53.2043
+N	53.2043	-6.10046
+N	53.2043	-6.10046	E919
+N	53.2043	-6.10046	E919	21 Oct 2021
+N	53.2043	-6.10046	E919	21 Oct 2021	E919\nBray to Howth\nExpected Departure 11:55
+N	53.2043	-6.10046	E919	21 Oct 2021	E919\nBray to Howth\nExpected Departure 11:55	Northbound
+N	53.2043	-6.10046	E919	21 Oct 2021	E919\nBray to Howth\nExpected Departure 11:55	Northbound
+N
+N	53.3464
+N	53.3464	-6.29461
+N	53.3464	-6.29461	A212
+N	53.3464	-6.29461	A212	21 Oct 2021
+N	53.3464	-6.29461	A212	21 Oct 2021	A212\nDublin Heuston to Mallow\nExpected Departure 12:00
+N	53.3464	-6.29461	A212	21 Oct 2021	A212\nDublin Heuston to Mallow\nExpected Departure 12:00	To Mallow
+N	53.3464	-6.29461	A212	21 Oct 2021	A212\nDublin Heuston to Mallow\nExpected Departure 12:00	To Mallow
+N
+N	53.3891
+N	53.3891	-6.07401
+N	53.3891	-6.07401	E113
+N	53.3891	-6.07401	E113	21 Oct 2021
+N	53.3891	-6.07401	E113	21 Oct 2021	E113\nHowth to Greystones\nExpected Departure 12:00
+N	53.3891	-6.07401	E113	21 Oct 2021	E113\nHowth to Greystones\nExpected Departure 12:00	Southbound
+N	53.3891	-6.07401	E113	21 Oct 2021	E113\nHowth to Greystones\nExpected Departure 12:00	Southbound
+R
+R	0
+R	0	0
+R	0	0	A210
+R	0	0	A210	21 Oct 2021
+R	0	0	A210	21 Oct 2021	A210\n11:00 - Dublin Heuston to Mallow (-6 mins late)\nDeparted PL102 next stop Templemore
+R	0	0	A210	21 Oct 2021	A210\n11:00 - Dublin Heuston to Mallow (-6 mins late)\nDeparted PL102 next stop Templemore	To Mallow
+R	0	0	A210	21 Oct 2021	A210\n11:00 - Dublin Heuston to Mallow (-6 mins late)\nDeparted PL102 next stop Templemore	To Mallow
+R
+R	52.1396
+R	52.1396	-8.65521
+R	52.1396	-8.65521	A213
+R	52.1396	-8.65521	A213	21 Oct 2021
+R	52.1396	-8.65521	A213	21 Oct 2021	A213\n11:48 - Mallow to Dublin Heuston (1 mins late)\nDeparted Mallow next stop Limerick Junction
+R	52.1396	-8.65521	A213	21 Oct 2021	A213\n11:48 - Mallow to Dublin Heuston (1 mins late)\nDeparted Mallow next stop Limerick Junction	To Dublin Heuston
+R	52.1396	-8.65521	A213	21 Oct 2021	A213\n11:48 - Mallow to Dublin Heuston (1 mins late)\nDeparted Mallow next stop Limerick Junction	To Dublin Heuston
+R
+R	52.1396
+R	52.1396	-8.65521
+R	52.1396	-8.65521	A304
+R	52.1396	-8.65521	A304	21 Oct 2021
+R	52.1396	-8.65521	A304	21 Oct 2021	A304\n11:25 - Mallow to Tralee (0 mins late)\nDeparted Mallow next stop Banteer
+R	52.1396	-8.65521	A304	21 Oct 2021	A304\n11:25 - Mallow to Tralee (0 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R	52.1396	-8.65521	A304	21 Oct 2021	A304\n11:25 - Mallow to Tralee (0 mins late)\nDeparted Mallow next stop Banteer	To Tralee
+R
+R	52.3468
+R	52.3468	-8.65362
+R	52.3468	-8.65362	A208
+R	52.3468	-8.65362	A208	21 Oct 2021
+R	52.3468	-8.65362	A208	21 Oct 2021	A208\n10:00 - Dublin Heuston to Mallow (-2 mins late)\nDeparted Charleville next stop Mallow
+R	52.3468	-8.65362	A208	21 Oct 2021	A208\n10:00 - Dublin Heuston to Mallow (-2 mins late)\nDeparted Charleville next stop Mallow	To Mallow
+R	52.3468	-8.65362	A208	21 Oct 2021	A208\n10:00 - Dublin Heuston to Mallow (-2 mins late)\nDeparted Charleville next stop Mallow	To Mallow
+R
+R	52.5828
+R	52.5828	-8.38682
+R	52.5828	-8.38682	A472
+R	52.5828	-8.38682	A472	21 Oct 2021
+R	52.5828	-8.38682	A472	21 Oct 2021	A472\n11:36 - Limerick Junction to Ennis (4 mins late)\nDeparted Drumkeen next stop Limerick
+R	52.5828	-8.38682	A472	21 Oct 2021	A472\n11:36 - Limerick Junction to Ennis (4 mins late)\nDeparted Drumkeen next stop Limerick	To Ennis
+R	52.5828	-8.38682	A472	21 Oct 2021	A472\n11:36 - Limerick Junction to Ennis (4 mins late)\nDeparted Drumkeen next stop Limerick	To Ennis
+R
+R	52.6766
+R	52.6766	-7.82189
+R	52.6766	-7.82189	A211
+R	52.6766	-7.82189	A211	21 Oct 2021
+R	52.6766	-7.82189	A211	21 Oct 2021	A211\n10:48 - Mallow to Dublin Heuston (9 mins late)\nDeparted Thurles next stop Templemore
+R	52.6766	-7.82189	A211	21 Oct 2021	A211\n10:48 - Mallow to Dublin Heuston (9 mins late)\nDeparted Thurles next stop Templemore	To Dublin Heuston
+R	52.6766	-7.82189	A211	21 Oct 2021	A211\n10:48 - Mallow to Dublin Heuston (9 mins late)\nDeparted Thurles next stop Templemore	To Dublin Heuston
+R
+R	52.8407
+R	52.8407	-6.92217
+R	52.8407	-6.92217	A509
+R	52.8407	-6.92217	A509	21 Oct 2021
+R	52.8407	-6.92217	A509	21 Oct 2021	A509\n11:00 - Waterford to Dublin Heuston (-42 mins late)\nArrived Carlow next stop Athy
+R	52.8407	-6.92217	A509	21 Oct 2021	A509\n11:00 - Waterford to Dublin Heuston (-42 mins late)\nArrived Carlow next stop Athy	To Dublin Heuston
+R	52.8407	-6.92217	A509	21 Oct 2021	A509\n11:00 - Waterford to Dublin Heuston (-42 mins late)\nArrived Carlow next stop Athy	To Dublin Heuston
+R
+R	52.992
+R	52.992	-6.9762
+R	52.992	-6.9762	A504
+R	52.992	-6.9762	A504	21 Oct 2021
+R	52.992	-6.9762	A504	21 Oct 2021	A504\n10:15 - Dublin Heuston to Waterford (2 mins late)\nDeparted Athy next stop Carlow
+R	52.992	-6.9762	A504	21 Oct 2021	A504\n10:15 - Dublin Heuston to Waterford (2 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R	52.992	-6.9762	A504	21 Oct 2021	A504\n10:15 - Dublin Heuston to Waterford (2 mins late)\nDeparted Athy next stop Carlow	To Waterford
+R
+R	53.1442
+R	53.1442	-6.06085
+R	53.1442	-6.06085	A602
+R	53.1442	-6.06085	A602	21 Oct 2021
+R	53.1442	-6.06085	A602	21 Oct 2021	A602\n09:33 - Dublin Connolly to Rosslare Europort (4 mins late)\nDeparted Greystones next stop Wicklow
+R	53.1442	-6.06085	A602	21 Oct 2021	A602\n09:33 - Dublin Connolly to Rosslare Europort (4 mins late)\nDeparted Greystones next stop Wicklow	Southbound
+R	53.1442	-6.06085	A602	21 Oct 2021	A602\n09:33 - Dublin Connolly to Rosslare Europort (4 mins late)\nDeparted Greystones next stop Wicklow	Southbound
+R
+R	53.1454
+R	53.1454	-7.06361
+R	53.1454	-7.06361	A704
+R	53.1454	-7.06361	A704	21 Oct 2021
+R	53.1454	-7.06361	A704	21 Oct 2021	A704\n11:25 - Dublin Heuston to Galway (-5 mins late)\nArrived Monasterevin next stop Portarlington
+R	53.1454	-7.06361	A704	21 Oct 2021	A704\n11:25 - Dublin Heuston to Galway (-5 mins late)\nArrived Monasterevin next stop Portarlington	To Galway
+R	53.1454	-7.06361	A704	21 Oct 2021	A704\n11:25 - Dublin Heuston to Galway (-5 mins late)\nArrived Monasterevin next stop Portarlington	To Galway
+R
+R	53.163
+R	53.163	-6.90802
+R	53.163	-6.90802	P210
+R	53.163	-6.90802	P210	21 Oct 2021
+R	53.163	-6.90802	P210	21 Oct 2021	P210\n11:25 - Portlaoise to Dublin Heuston (0 mins late)\nDeparted Kildare next stop Newbridge
+R	53.163	-6.90802	P210	21 Oct 2021	P210\n11:25 - Portlaoise to Dublin Heuston (0 mins late)\nDeparted Kildare next stop Newbridge	To Dublin Heuston
+R	53.163	-6.90802	P210	21 Oct 2021	P210\n11:25 - Portlaoise to Dublin Heuston (0 mins late)\nDeparted Kildare next stop Newbridge	To Dublin Heuston
+R
+R	53.2364
+R	53.2364	-6.11691
+R	53.2364	-6.11691	E220
+R	53.2364	-6.11691	E220	21 Oct 2021
+R	53.2364	-6.11691	E220	21 Oct 2021	E220\n10:40 - Howth to Bray (0 mins late)\nDeparted Shankill next stop Bray
+R	53.2364	-6.11691	E220	21 Oct 2021	E220\n10:40 - Howth to Bray (0 mins late)\nDeparted Shankill next stop Bray	Southbound
+R	53.2364	-6.11691	E220	21 Oct 2021	E220\n10:40 - Howth to Bray (0 mins late)\nDeparted Shankill next stop Bray	Southbound
+R
+R	53.2469
+R	53.2469	-6.66386
+R	53.2469	-6.66386	D206
+R	53.2469	-6.66386	D206	21 Oct 2021
+R	53.2469	-6.66386	D206	21 Oct 2021	D206\n11:20 - Dublin Heuston to Portlaoise (1 mins late)\nDeparted Sallins next stop Newbridge
+R	53.2469	-6.66386	D206	21 Oct 2021	D206\n11:20 - Dublin Heuston to Portlaoise (1 mins late)\nDeparted Sallins next stop Newbridge	To Portlaoise
+R	53.2469	-6.66386	D206	21 Oct 2021	D206\n11:20 - Dublin Heuston to Portlaoise (1 mins late)\nDeparted Sallins next stop Newbridge	To Portlaoise
+R
+R	53.2557
+R	53.2557	-6.11317
+R	53.2557	-6.11317	E818
+R	53.2557	-6.11317	E818	21 Oct 2021
+R	53.2557	-6.11317	E818	21 Oct 2021	E818\n11:34 - Greystones to Malahide (1 mins late)\nArrived Killiney next stop Dalkey
+R	53.2557	-6.11317	E818	21 Oct 2021	E818\n11:34 - Greystones to Malahide (1 mins late)\nArrived Killiney next stop Dalkey	Northbound
+R	53.2557	-6.11317	E818	21 Oct 2021	E818\n11:34 - Greystones to Malahide (1 mins late)\nArrived Killiney next stop Dalkey	Northbound
+R
+R	53.2736
+R	53.2736	-9.04696
+R	53.2736	-9.04696	A483
+R	53.2736	-9.04696	A483	21 Oct 2021
+R	53.2736	-9.04696	A483	21 Oct 2021	A483\n10:25 - Galway to Limerick (0 mins late)\nDeparted Galway next stop Oranmore
+R	53.2736	-9.04696	A483	21 Oct 2021	A483\n10:25 - Galway to Limerick (0 mins late)\nDeparted Galway next stop Oranmore	To Limerick
+R	53.2736	-9.04696	A483	21 Oct 2021	A483\n10:25 - Galway to Limerick (0 mins late)\nDeparted Galway next stop Oranmore	To Limerick
+R
+R	53.2756
+R	53.2756	-6.10333
+R	53.2756	-6.10333	E221
+R	53.2756	-6.10333	E221	21 Oct 2021
+R	53.2756	-6.10333	E221	21 Oct 2021	E221\n10:50 - Malahide to Bray (0 mins late)\nDeparted Dalkey next stop Killiney
+R	53.2756	-6.10333	E221	21 Oct 2021	E221\n10:50 - Malahide to Bray (0 mins late)\nDeparted Dalkey next stop Killiney	Southbound
+R	53.2756	-6.10333	E221	21 Oct 2021	E221\n10:50 - Malahide to Bray (0 mins late)\nDeparted Dalkey next stop Killiney	Southbound
+R
+R	53.2878
+R	53.2878	-6.12712
+R	53.2878	-6.12712	E111
+R	53.2878	-6.12712	E111	21 Oct 2021
+R	53.2878	-6.12712	E111	21 Oct 2021	E111\n11:00 - Howth to Greystones (-3 mins late)\nArrived Sandycove next stop Glenageary
+R	53.2878	-6.12712	E111	21 Oct 2021	E111\n11:00 - Howth to Greystones (-3 mins late)\nArrived Sandycove next stop Glenageary	Southbound
+R	53.2878	-6.12712	E111	21 Oct 2021	E111\n11:00 - Howth to Greystones (-3 mins late)\nArrived Sandycove next stop Glenageary	Southbound
+R
+R	53.2878
+R	53.2878	-6.12712
+R	53.2878	-6.12712	E918
+R	53.2878	-6.12712	E918	21 Oct 2021
+R	53.2878	-6.12712	E918	21 Oct 2021	E918\n11:35 - Bray to Howth (0 mins late)\nDeparted Sandycove next stop Dun Laoghaire
+R	53.2878	-6.12712	E918	21 Oct 2021	E918\n11:35 - Bray to Howth (0 mins late)\nDeparted Sandycove next stop Dun Laoghaire	Northbound
+R	53.2878	-6.12712	E918	21 Oct 2021	E918\n11:35 - Bray to Howth (0 mins late)\nDeparted Sandycove next stop Dun Laoghaire	Northbound
+R
+R	53.3099
+R	53.3099	-6.19498
+R	53.3099	-6.19498	E222
+R	53.3099	-6.19498	E222	21 Oct 2021
+R	53.3099	-6.19498	E222	21 Oct 2021	E222\n11:10 - Malahide to Bray (0 mins late)\nArrived Booterstown next stop Blackrock
+R	53.3099	-6.19498	E222	21 Oct 2021	E222\n11:10 - Malahide to Bray (0 mins late)\nArrived Booterstown next stop Blackrock	Southbound
+R	53.3099	-6.19498	E222	21 Oct 2021	E222\n11:10 - Malahide to Bray (0 mins late)\nArrived Booterstown next stop Blackrock	Southbound
+R
+R	53.3099
+R	53.3099	-6.19498
+R	53.3099	-6.19498	E817
+R	53.3099	-6.19498	E817	21 Oct 2021
+R	53.3099	-6.19498	E817	21 Oct 2021	E817\n11:25 - Bray to Malahide (0 mins late)\nArrived Booterstown next stop Sydney Parade
+R	53.3099	-6.19498	E817	21 Oct 2021	E817\n11:25 - Bray to Malahide (0 mins late)\nArrived Booterstown next stop Sydney Parade	Northbound
+R	53.3099	-6.19498	E817	21 Oct 2021	E817\n11:25 - Bray to Malahide (0 mins late)\nArrived Booterstown next stop Sydney Parade	Northbound
+R
+R	53.334
+R	53.334	-6.37868
+R	53.334	-6.37868	A709
+R	53.334	-6.37868	A709	21 Oct 2021
+R	53.334	-6.37868	A709	21 Oct 2021	A709\n09:30 - Galway to Dublin Heuston (5 mins late)\nDeparted Park West and Cherry Orchard next stop Dublin Heuston
+R	53.334	-6.37868	A709	21 Oct 2021	A709\n09:30 - Galway to Dublin Heuston (5 mins late)\nDeparted Park West and Cherry Orchard next stop Dublin Heuston	To Dublin Heuston
+R	53.334	-6.37868	A709	21 Oct 2021	A709\n09:30 - Galway to Dublin Heuston (5 mins late)\nDeparted Park West and Cherry Orchard next stop Dublin Heuston	To Dublin Heuston
+R
+R	53.334
+R	53.334	-6.37868
+R	53.334	-6.37868	P408
+R	53.334	-6.37868	P408	21 Oct 2021
+R	53.334	-6.37868	P408	21 Oct 2021	P408\n11:35 - Hazelhatch to Grand Canal Dock (0 mins late)\nDeparted Park West and Cherry Orchard next stop Drumcondra
+R	53.334	-6.37868	P408	21 Oct 2021	P408\n11:35 - Hazelhatch to Grand Canal Dock (0 mins late)\nDeparted Park West and Cherry Orchard next stop Drumcondra	Northbound
+R	53.334	-6.37868	P408	21 Oct 2021	P408\n11:35 - Hazelhatch to Grand Canal Dock (0 mins late)\nDeparted Park West and Cherry Orchard next stop Drumcondra	Northbound
+R
+R	53.3345
+R	53.3345	-6.43038
+R	53.3345	-6.43038	A209
+R	53.3345	-6.43038	A209	21 Oct 2021
+R	53.3345	-6.43038	A209	21 Oct 2021	A209\n09:48 - Mallow to Dublin Heuston (3 mins late)\nArrived Kishogue next stop Dublin Heuston
+R	53.3345	-6.43038	A209	21 Oct 2021	A209\n09:48 - Mallow to Dublin Heuston (3 mins late)\nArrived Kishogue next stop Dublin Heuston	To Dublin Heuston
+R	53.3345	-6.43038	A209	21 Oct 2021	A209\n09:48 - Mallow to Dublin Heuston (3 mins late)\nArrived Kishogue next stop Dublin Heuston	To Dublin Heuston
+R
+R	53.3347
+R	53.3347	-6.22979
+R	53.3347	-6.22979	E917
+R	53.3347	-6.22979	E917	21 Oct 2021
+R	53.3347	-6.22979	E917	21 Oct 2021	E917\n11:04 - Greystones to Howth (2 mins late)\nDeparted Lansdowne Road next stop Grand Canal Dock
+R	53.3347	-6.22979	E917	21 Oct 2021	E917\n11:04 - Greystones to Howth (2 mins late)\nDeparted Lansdowne Road next stop Grand Canal Dock	Northbound
+R	53.3347	-6.22979	E917	21 Oct 2021	E917\n11:04 - Greystones to Howth (2 mins late)\nDeparted Lansdowne Road next stop Grand Canal Dock	Northbound
+R
+R	53.3363
+R	53.3363	-8.24081
+R	53.3363	-8.24081	A702
+R	53.3363	-8.24081	A702	21 Oct 2021
+R	53.3363	-8.24081	A702	21 Oct 2021	A702\n09:25 - Dublin Heuston to Galway (6 mins late)\nDeparted Ballinasloe next stop Attymon
+R	53.3363	-8.24081	A702	21 Oct 2021	A702\n09:25 - Dublin Heuston to Galway (6 mins late)\nDeparted Ballinasloe next stop Attymon	To Galway
+R	53.3363	-8.24081	A702	21 Oct 2021	A702\n09:25 - Dublin Heuston to Galway (6 mins late)\nDeparted Ballinasloe next stop Attymon	To Galway
+R
+R	53.3397
+R	53.3397	-6.23773
+R	53.3397	-6.23773	E223
+R	53.3397	-6.23773	E223	21 Oct 2021
+R	53.3397	-6.23773	E223	21 Oct 2021	E223\n11:20 - Howth to Bray (0 mins late)\nArrived Grand Canal Dock next stop Lansdowne Road
+R	53.3397	-6.23773	E223	21 Oct 2021	E223\n11:20 - Howth to Bray (0 mins late)\nArrived Grand Canal Dock next stop Lansdowne Road	Southbound
+R	53.3397	-6.23773	E223	21 Oct 2021	E223\n11:20 - Howth to Bray (0 mins late)\nArrived Grand Canal Dock next stop Lansdowne Road	Southbound
+R
+R	53.3531
+R	53.3531	-6.24591
+R	53.3531	-6.24591	E816
+R	53.3531	-6.24591	E816	21 Oct 2021
+R	53.3531	-6.24591	E816	21 Oct 2021	E816\n11:05 - Bray to Malahide (0 mins late)\nArrived Dublin Connolly next stop Clontarf Road
+R	53.3531	-6.24591	E816	21 Oct 2021	E816\n11:05 - Bray to Malahide (0 mins late)\nArrived Dublin Connolly next stop Clontarf Road	Northbound
+R	53.3531	-6.24591	E816	21 Oct 2021	E816\n11:05 - Bray to Malahide (0 mins late)\nArrived Dublin Connolly next stop Clontarf Road	Northbound
+R
+R	53.3629
+R	53.3629	-6.22753
+R	53.3629	-6.22753	D806
+R	53.3629	-6.22753	D806	21 Oct 2021
+R	53.3629	-6.22753	D806	21 Oct 2021	D806\n11:50 - Dublin Connolly to Drogheda (-1 mins late)\nArrived Clontarf Road next stop Malahide
+R	53.3629	-6.22753	D806	21 Oct 2021	D806\n11:50 - Dublin Connolly to Drogheda (-1 mins late)\nArrived Clontarf Road next stop Malahide	Northbound
+R	53.3629	-6.22753	D806	21 Oct 2021	D806\n11:50 - Dublin Connolly to Drogheda (-1 mins late)\nArrived Clontarf Road next stop Malahide	Northbound
+R
+R	53.3629
+R	53.3629	-6.22753
+R	53.3629	-6.22753	E112
+R	53.3629	-6.22753	E112	21 Oct 2021
+R	53.3629	-6.22753	E112	21 Oct 2021	E112\n11:30 - Malahide to Greystones (0 mins late)\nDeparted Clontarf Road next stop Dublin Connolly
+R	53.3629	-6.22753	E112	21 Oct 2021	E112\n11:30 - Malahide to Greystones (0 mins late)\nDeparted Clontarf Road next stop Dublin Connolly	Southbound
+R	53.3629	-6.22753	E112	21 Oct 2021	E112\n11:30 - Malahide to Greystones (0 mins late)\nDeparted Clontarf Road next stop Dublin Connolly	Southbound
+R
+R	53.3632
+R	53.3632	-6.25908
+R	53.3632	-6.25908	D407
+R	53.3632	-6.25908	D407	21 Oct 2021
+R	53.3632	-6.25908	D407	21 Oct 2021	D407\n11:30 - Grand Canal Dock to Hazelhatch (0 mins late)\nDeparted Drumcondra next stop Park West and Cherry Orchard
+R	53.3632	-6.25908	D407	21 Oct 2021	D407\n11:30 - Grand Canal Dock to Hazelhatch (0 mins late)\nDeparted Drumcondra next stop Park West and Cherry Orchard	Southbound
+R	53.3632	-6.25908	D407	21 Oct 2021	D407\n11:30 - Grand Canal Dock to Hazelhatch (0 mins late)\nDeparted Drumcondra next stop Park West and Cherry Orchard	Southbound
+R
+R	53.3632
+R	53.3632	-6.25908
+R	53.3632	-6.25908	D913
+R	53.3632	-6.25908	D913	21 Oct 2021
+R	53.3632	-6.25908	D913	21 Oct 2021	D913\n11:47 - Dublin Connolly to Maynooth (0 mins late)\nDeparted Drumcondra next stop Broombridge
+R	53.3632	-6.25908	D913	21 Oct 2021	D913\n11:47 - Dublin Connolly to Maynooth (0 mins late)\nDeparted Drumcondra next stop Broombridge	Northbound
+R	53.3632	-6.25908	D913	21 Oct 2021	D913\n11:47 - Dublin Connolly to Maynooth (0 mins late)\nDeparted Drumcondra next stop Broombridge	Northbound
+R
+R	53.3704
+R	53.3704	-6.50598
+R	53.3704	-6.50598	P742
+R	53.3704	-6.50598	P742	21 Oct 2021
+R	53.3704	-6.50598	P742	21 Oct 2021	P742\n11:43 - Maynooth to Dublin Connolly (1 mins late)\nArrived Leixlip (Louisa Bridge) next stop Leixlip (Confey)
+R	53.3704	-6.50598	P742	21 Oct 2021	P742\n11:43 - Maynooth to Dublin Connolly (1 mins late)\nArrived Leixlip (Louisa Bridge) next stop Leixlip (Confey)	Southbound
+R	53.3704	-6.50598	P742	21 Oct 2021	P742\n11:43 - Maynooth to Dublin Connolly (1 mins late)\nArrived Leixlip (Louisa Bridge) next stop Leixlip (Confey)	Southbound
+R
+R	53.3743
+R	53.3743	-6.48624
+R	53.3743	-6.48624	D912
+R	53.3743	-6.48624	D912	21 Oct 2021
+R	53.3743	-6.48624	D912	21 Oct 2021	D912\n11:17 - Dublin Connolly to Maynooth (2 mins late)\nArrived Leixlip (Confey) next stop Leixlip (Louisa Bridge)
+R	53.3743	-6.48624	D912	21 Oct 2021	D912\n11:17 - Dublin Connolly to Maynooth (2 mins late)\nArrived Leixlip (Confey) next stop Leixlip (Louisa Bridge)	Northbound
+R	53.3743	-6.48624	D912	21 Oct 2021	D912\n11:17 - Dublin Connolly to Maynooth (2 mins late)\nArrived Leixlip (Confey) next stop Leixlip (Louisa Bridge)	Northbound
+R
+R	53.3776
+R	53.3776	-6.39072
+R	53.3776	-6.39072	A905
+R	53.3776	-6.39072	A905	21 Oct 2021
+R	53.3776	-6.39072	A905	21 Oct 2021	A905\n09:05 - Sligo to Dublin Connolly (2 mins late)\nArrived Coolmine next stop Drumcondra
+R	53.3776	-6.39072	A905	21 Oct 2021	A905\n09:05 - Sligo to Dublin Connolly (2 mins late)\nArrived Coolmine next stop Drumcondra	Southbound
+R	53.3776	-6.39072	A905	21 Oct 2021	A905\n09:05 - Sligo to Dublin Connolly (2 mins late)\nArrived Coolmine next stop Drumcondra	Southbound
+R
+R	53.3815
+R	53.3815	-6.17699
+R	53.3815	-6.17699	E224
+R	53.3815	-6.17699	E224	21 Oct 2021
+R	53.3815	-6.17699	E224	21 Oct 2021	E224\n11:40 - Howth to Bray (0 mins late)\nDeparted Raheny next stop Harmonstown
+R	53.3815	-6.17699	E224	21 Oct 2021	E224\n11:40 - Howth to Bray (0 mins late)\nDeparted Raheny next stop Harmonstown	Southbound
+R	53.3815	-6.17699	E224	21 Oct 2021	E224\n11:40 - Howth to Bray (0 mins late)\nDeparted Raheny next stop Harmonstown	Southbound
+R
+R	53.3815
+R	53.3815	-6.17699
+R	53.3815	-6.17699	E916
+R	53.3815	-6.17699	E916	21 Oct 2021
+R	53.3815	-6.17699	E916	21 Oct 2021	E916\n10:55 - Bray to Howth (0 mins late)\nArrived Raheny next stop Kilbarrack
+R	53.3815	-6.17699	E916	21 Oct 2021	E916\n10:55 - Bray to Howth (0 mins late)\nArrived Raheny next stop Kilbarrack	Northbound
+R	53.3815	-6.17699	E916	21 Oct 2021	E916\n10:55 - Bray to Howth (0 mins late)\nArrived Raheny next stop Kilbarrack	Northbound
+T
+T	53.3531
+T	53.3531	-6.24591
+T	53.3531	-6.24591	P741
+T	53.3531	-6.24591	P741	21 Oct 2021
+T	53.3531	-6.24591	P741	21 Oct 2021	P741\n11:08 - Maynooth to Dublin Connolly(0 mins late)\nTERMINATED Dublin Connolly at 11:53
+T	53.3531	-6.24591	P741	21 Oct 2021	P741\n11:08 - Maynooth to Dublin Connolly(0 mins late)\nTERMINATED Dublin Connolly at 11:53	Southbound
+T	53.3531	-6.24591	P741	21 Oct 2021	P741\n11:08 - Maynooth to Dublin Connolly(0 mins late)\nTERMINATED Dublin Connolly at 11:53	Southbound
+T
+T	53.3831
+T	53.3831	-6.4242
+T	53.3831	-6.4242	P307
+T	53.3831	-6.4242	P307	21 Oct 2021
+T	53.3831	-6.4242	P307	21 Oct 2021	P307\n11:40 - M3 Parkway to Clonsilla(0 mins late)\nTERMINATED Clonsilla at 11:52
+T	53.3831	-6.4242	P307	21 Oct 2021	P307\n11:40 - M3 Parkway to Clonsilla(0 mins late)\nTERMINATED Clonsilla at 11:52	Southbound
+T	53.3831	-6.4242	P307	21 Oct 2021	P307\n11:40 - M3 Parkway to Clonsilla(0 mins late)\nTERMINATED Clonsilla at 11:52	Southbound
+T
+T	53.3891
+T	53.3891	-6.07401
+T	53.3891	-6.07401	E915
+T	53.3891	-6.07401	E915	21 Oct 2021
+T	53.3891	-6.07401	E915	21 Oct 2021	E915\n10:35 - Bray to Howth(-2 mins late)\nTERMINATED Howth at 11:46
+T	53.3891	-6.07401	E915	21 Oct 2021	E915\n10:35 - Bray to Howth(-2 mins late)\nTERMINATED Howth at 11:46	Northbound
+T	53.3891	-6.07401	E915	21 Oct 2021	E915\n10:35 - Bray to Howth(-2 mins late)\nTERMINATED Howth at 11:46	Northbound
