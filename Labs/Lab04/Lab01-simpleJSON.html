@@ -1,0 +1,16 @@
+<html>
+    <head>
+        <title>Simple JSON</title>
+    </head>
+<body>
+    <div id="Part1"></div>
+
+<script>
+    var txt = '{"isbn":1234567, "Author": "Andrew Beatty", "Title" : "the emptness of ping-pong balls"}'
+    var obj = JSON.parse(txt);
+    document.getElementById("Part1").innerHTML = obj.Author;
+
+</script>
+
+</body>
+</html>
