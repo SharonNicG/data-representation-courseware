@@ -8,16 +8,16 @@
         <button onclick="readJSON()">go</button>
         <div id="output"></div>
         <script>
-            function readJSON() {
+            function readJSON(){
             $.ajax({
-                "url": "http://api.coindesk.com/v1/bpi/currentprice.json",
+                "url":"https://api.coindesk.com/v1/bpi/currentprice.json",
                 "method":"GET",
                 "data":"",
                 "dataType":"JSON",
-                "success":function(result) {
+                "success":function(result){
                     var rate = result.bpi.EUR.rate;
                     // console.log(rate);
-                    document.getElementById("output").innertext = rate;
+                    document.getElementById("output").innerText = rate;
                 },
                 "error":function(xhr,status,error) {
                     console.log("error: "+status+" msg:"+error);
