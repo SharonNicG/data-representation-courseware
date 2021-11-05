@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Curl Lab</title>
+    </head>
+    <body>
+        <p>
+            <h3>Part 1</h3>
+            Step 1: curl google.com<br>
+            Step 2: curl -i google.com<br>
+            <br>
+            <h3>Part 2</h3>
+            curl http://andrewbeatty1.pythonanywhere.com/books<br>
+            curl http://andrewbeatty1.pythonanywhere.com/books/9<br>
+            curl -H "Content-Type:application/json" -X POST -d "{\"Title\":\"Dune\",\"Author\":\"Frank Herbert\",\"Price\":8.99}" http://andrewbeatty1.pythonanywhere.com/books<br>
+            curl -H "Content-Type:application/json" -X PUT -d "{\"Price\":10}" http://andrewbeatty1.pythonanywhere.com/books/44<br>
+            curl -X DELETE http://andrewbeatty1.pythonanywhere.com/books/44
+            <h3>Part 3</h3>
+
+
+        </p>
+    </body>
+</html>
